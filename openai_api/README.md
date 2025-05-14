@@ -3,19 +3,19 @@
 This project uses OpenAI's `gpt-3.5-turbo` API to create an AI-driven travel guide for the city of Paris. It simulates an interactive assistant capable of answering common travel-related questions, offering insights into landmarks, local culture, and hidden gems.
 
 
-## 💡 Project Overview
+## Project Overview
 
 - Uses the OpenAI Chat Completion API
 - Answers user-defined travel questions about Paris
 - Designed to simulate a human-like concierge experience
 
-## 🧰 Technologies
+## Technologies
 
 - Python
 - OpenAI API (`gpt-3.5-turbo`)
 - Environment variables for API key storage
 
-## 🔐 Setup Instructions
+## Setup Instructions
 
 1. Create an OpenAI developer account: https://platform.openai.com/signup  
 2. Generate your API key: https://platform.openai.com/account/api-keys  

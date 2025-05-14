@@ -4,7 +4,7 @@ This project applies **statistical process control (SPC)** techniques to manufac
 
 The goal is to help a manufacturing team monitor and improve quality by analyzing measurements such as item height and detecting when adjustments are needed.
 
-## ⚙️ Project Overview
+## Project Overview
 
 - Uses SQL window functions and nested queries to analyze production data
 - Calculates control limits:
@@ -13,7 +13,7 @@ The goal is to help a manufacturing team monitor and improve quality by analyzin
 - Identifies parts that fall outside acceptable limits
 - Helps ensure a stable, high-quality manufacturing process
 
-## 🧰 Tools
+## Tools
 - SQL
 - Window functions and aggregations
 - Jupyter Notebook (SQL interface)
