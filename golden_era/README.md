@@ -6,7 +6,7 @@ This project explores critic and user ratings of video games across years to ide
 > 📊 The datasets used were provided within the course and are included here for transparency and reproducibility.
 
 ## What's Inside
-- 📈 Analysis of game sales and review scores from critics and users
+Analysis of game sales and review scores from critics and users
 
 ## How to Use
 1. Clone the repo or download the folder
